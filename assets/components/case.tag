@@ -1,6 +1,9 @@
 <case class="case">
   <img class="view" src="http://images.amazon.com/images/P/{ this.asin }.09_SL500_.jpg">
   <div class="detail">
+    <div class="product">
+      <code class="kata">{ this.kata }</code>
+    </div>
     <a href="https://www.amazon.co.jp/dp/{ this.asin }/" target="_blank">
       <h3 class="title">{ this.title }</h3>
     </a>
@@ -32,6 +35,9 @@
     <div class="meta">
       <div class="date">
         <span>{ this.date }</span>
+      </div>
+      <div class="kakaku" if={ this.kakaku }>
+        <a href="http://kakaku.com/item/{ this.kakaku }/spec/#tab">価格.com</a>
       </div>
     </div>
   </div>
