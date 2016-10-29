@@ -4,10 +4,21 @@
     <a href="https://www.amazon.co.jp/dp/{ this.asin }/" target="_blank">
       <h3 class="title">{ this.title }</h3>
     </a>
-    <div>
-      <div class="ppi">
+    <div class="spec-chips">
+      <div class="chip">
+        <span>{ this.inch }</span>
+        <span class="sfx">インチ</span>
+      </div>
+      <div class="chip ppi">
         <span>{ this.ppi }</span>
         <span class="sfx">ppi</span>
+      </div>
+      <div class="chip">
+        <span>{ this.panel }</span>
+        <span class="sfx">パネル</span>
+      </div>
+      <div class="chip">
+        <span>{ this.glare }</span>
       </div>
     </div>
   </div>
