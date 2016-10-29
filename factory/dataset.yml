@@ -4,6 +4,8 @@
   reso: 3840x2160
   panel: IPS
   glare: 非光沢
+  vesa: true
+  kg: 4.6
   date: 2016.10.30
 
 - asin: B0182GI69U
@@ -12,6 +14,8 @@
   reso: 3840x2160
   panel: TN
   glare: 非光沢
+  vesa: true
+  kg: 8
   date: 2016.10.30
 
 - asin: B01D9FP20A
@@ -20,6 +24,8 @@
   reso: 3840x2160
   panel: IPS
   glare: 非光沢
+  vesa: true
+  kg: 10
   date: 2016.10.30
 
 - asin: B01BS8MYMO
@@ -28,6 +34,8 @@
   reso: 3840x2160
   panel: TN
   glare: 非光沢
+  vesa: false
+  kg:
   date: 2016.10.30
 
 - asin: B018T5WQPE
@@ -36,6 +44,8 @@
   reso: 3840x2160
   panel: VA
   glare: ハーフグレア
+  vesa: true
+  kg: 12
   date: 2016.10.30
 
 - asin: B01DK9IR8Y
@@ -44,4 +54,6 @@
   reso: 3840x2160
   panel: AH-IPS
   glare: 非光沢
+  vesa: true
+  kg: 4.9
   date: 2016.10.30

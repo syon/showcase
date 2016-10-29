@@ -20,6 +20,14 @@
       <div class="chip">
         <span>{ this.glare }</span>
       </div>
+      <div class="chip">
+        <span class="sfx">VESA</span>
+        <span>{ this.vesa ? "○" : "×" }</span>
+      </div>
+      <div class="chip">
+        <span>{ this.kg }</span>
+        <span class="sfx">kg</span>
+      </div>
     </div>
     <div class="meta">
       <div class="date">
