@@ -1,6 +1,6 @@
 <case-list>
   <div each={ item in items }>
-    <case asin={ item.asin } />
+    <case item={ item } />
   </div>
   <script>
   var self = this;
