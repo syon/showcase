@@ -5,7 +5,10 @@
       <h3 class="title">{ this.title }</h3>
     </a>
     <div>
-      <span class="ppi">{ this.ppi } ppi</span>
+      <div class="ppi">
+        <span>{ this.ppi }</span>
+        <span class="sfx">ppi</span>
+      </div>
     </div>
   </div>
   this.ppi = calcPPI(this.inch, this.reso);
