@@ -1,3 +1,13 @@
+- asin: B00M9RUYSA
+  title: EIZO FlexScan 31.5インチ カラー液晶モニタ ( 3840×2160 / IPSパネル / 5ms / ノングレア / ブラック ) EV3237-BK
+  inch: 31.5
+  reso: 3840x2160
+  panel: IPS
+  glare: 非光沢
+  vesa: true
+  kg: 10.6
+  date: 2016.10.30
+
 - asin: B01IALGW2U
   title: LG ディスプレイ・モニター 27インチ 4K/IPS 非光沢/ブラック/HDCP2.2対応/HDMI2.0×2 27UD58-B
   inch: 27
@@ -35,7 +45,7 @@
   panel: TN
   glare: 非光沢
   vesa: false
-  kg:
+  kg: 7
   date: 2016.10.30
 
 - asin: B018T5WQPE
