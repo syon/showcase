@@ -1,7 +1,5 @@
 <case-list>
-  <div each={ item in items }>
-    <case item={ item } />
-  </div>
+  <case each={ items } />
   <script>
   var self = this;
   $.ajax('/assets/dataset.json')
