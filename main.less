@@ -1,3 +1,8 @@
+body {
+  font-family: Lato, sans-serif;
+  color: #333;
+}
+
 .container {
   width: 970px;
   margin: 0 auto;
@@ -14,6 +19,7 @@
   }
 
   .detail {
+    margin-left: 15px;
     padding: 15px;
   }
   img.view {
@@ -22,8 +28,26 @@
   a {
     flex: 1;
   }
+  .product {
+    font-size: 24px;
+    margin-bottom: .5em;
+    display: flex;
+    align-items: center;
+    .maker {
+      font-weight: bold;
+    }
+    .kata {
+      margin-left: .5em;
+      padding: 2px 4px;
+      font-family: 'Anonymous Pro', monospace;
+      color: #4d4d4d;
+      border: 1px solid #757575r;
+      border-radius: 3px;
+    }
+  }
   .title {
     margin: 0 0 1em;
+    font-family: sans-serif;
   }
   .spec-chips {
     display: flex;
