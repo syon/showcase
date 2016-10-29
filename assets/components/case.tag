@@ -21,6 +21,11 @@
         <span>{ this.glare }</span>
       </div>
     </div>
+    <div class="meta">
+      <div class="date">
+        <span>{ this.date }</span>
+      </div>
+    </div>
   </div>
   this.ppi = calcPPI(this.inch, this.reso);
 </case>

@@ -4,6 +4,7 @@
   reso: 3840x2160
   panel: IPS
   glare: 非光沢
+  date: 2016.10.30
 
 - asin: B0182GI69U
   title: iiyama ゲーミング4Kディスプレイ モニター GB2888UHSU-B1 28型(1ms/3840×2160/DisplayPortx1/HDMIx2/HDMI(MHL)x1/D-subx1)
@@ -11,6 +12,7 @@
   reso: 3840x2160
   panel: TN
   glare: 非光沢
+  date: 2016.10.30
 
 - asin: B01D9FP20A
   title: Philips 43型ワイド液晶ディスプレイ (4K対応/IPSパネル/5年間フル保証) BDM4350UC/11
@@ -18,6 +20,7 @@
   reso: 3840x2160
   panel: IPS
   glare: 非光沢
+  date: 2016.10.30
 
 - asin: B01BS8MYMO
   title: Dell ディスプレイ モニター S2817Q 27.9インチ/4K/TN非光沢/2ms/DPx2,HDMIx2/USBハブ/3年間保証
@@ -25,6 +28,7 @@
   reso: 3840x2160
   panel: TN
   glare: 非光沢
+  date: 2016.10.30
 
 - asin: B018T5WQPE
   title: I-O DATA モニター ディスプレイ LCD-M4K401XVB 40型 (4K対応/60Hz/リモコン付/5年保証)
@@ -32,6 +36,7 @@
   reso: 3840x2160
   panel: VA
   glare: ハーフグレア
+  date: 2016.10.30
 
 - asin: B01DK9IR8Y
   title: LG ディスプレイ モニター 27インチ 4K/ブラック/AH-IPS非光沢/HDMI2.0準拠 27UD68-P
@@ -39,3 +44,4 @@
   reso: 3840x2160
   panel: AH-IPS
   glare: 非光沢
+  date: 2016.10.30
