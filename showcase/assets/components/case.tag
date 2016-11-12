@@ -1,13 +1,15 @@
 <case class="case">
   <div class="photo">
-    <img class="view" src="http://images.amazon.com/images/P/{ this.asin }.09_SL500_.jpg">
+    <a href="{ this.afiUrl }" target="_blank">
+      <img class="view" src="http://images.amazon.com/images/P/{ this.asin }.09_SL500_.jpg">
+    </a>
   </div>
   <div class="detail">
     <div class="product">
       <span class="maker">{ this.maker }</span>
       <code class="kata">{ this.kata }</code>
     </div>
-    <a href="https://www.amazon.co.jp/dp/{ this.asin }/" target="_blank">
+    <a href="{ this.afiUrl }" target="_blank">
       <h3 class="title">{ this.title }</h3>
     </a>
     <div class="spec-chips">
@@ -44,5 +46,6 @@
       </div>
     </div>
   </div>
+  this.afiUrl = "https://www.amazon.co.jp/exec/obidos/ASIN/" + this.asin + "/syonx-22/";
   this.ppi = calcPPI(this.inch, this.reso);
 </case>
