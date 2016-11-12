@@ -1,5 +1,7 @@
 <case class="case">
-  <img class="view" src="http://images.amazon.com/images/P/{ this.asin }.09_SL500_.jpg">
+  <div class="photo">
+    <img class="view" src="http://images.amazon.com/images/P/{ this.asin }.09_SL500_.jpg">
+  </div>
   <div class="detail">
     <div class="product">
       <span class="maker">{ this.maker }</span>

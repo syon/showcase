@@ -1,3 +1,16 @@
+- asin: B01N8T9BYQ
+  maker: LG
+  kata: 27MD5KA-B.AUSA
+  kakaku:
+  title: LG UltraFine 5K Display 27インチ 5,120 x 2,880 Thunderbolt 3 USB-C IPSパネル P3広色域 500cd/m² Apple MacBook Pro対応
+  inch: 27
+  reso: 5120x2880
+  panel: IPS
+  glare: ?
+  vesa: true
+  kg: 8.5
+  date: 2016.11.12
+
 - asin: B00M9RUYSA
   maker: EIZO
   kata: EV3237-BK
