@@ -38,6 +38,13 @@
         <span class="sfx">kg</span>
       </div>
     </div>
+    <div class="links">
+      <ul if={ this.links }>
+        <li each={ l in this.links }>
+          <a href="{ l }" target="_blank">{ l }</a>
+        </li>
+      </ul>
+    </div>
     <div class="meta">
       <div class="date">
         <span>{ this.date }</span>
