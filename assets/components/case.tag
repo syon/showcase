@@ -40,7 +40,7 @@
         <span>{ this.date }</span>
       </div>
       <div class="kakaku" if={ this.kakaku }>
-        <a href="http://kakaku.com/item/{ this.kakaku }/spec/#tab">価格.com</a>
+        <a href="http://kakaku.com/item/{ this.kakaku }/spec/#tab" target="_blank">価格.com</a>
       </div>
     </div>
   </div>
