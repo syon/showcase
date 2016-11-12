@@ -24,6 +24,112 @@
   kg: 10.6
   date: 2016.10.30
 
+- asin: B00YH8I48G
+  maker: LG
+  kata: 27MU67-B
+  kakaku: K0000784327
+  title: LG モニター ディスプレイ 27MU67-B 27インチ/4K(3840×2160)/IPS 非光沢/HDMI×2、DisplayPort/高さ調節、ピボット対応
+  inch: 27
+  reso: 3840x2160
+  panel: AH-IPS
+  glare: 非光沢
+  vesa: true
+  kg: 7.8
+  links:
+    - http://www.lg.com/jp/monitor/lg-27MU67-B
+  date: 2016.11.12
+
+- asin: B01AURYUI0
+  maker: JapanNext
+  kata: JN-T280UHD
+  kakaku: K0000848167
+  title: JN-T280UHD 28型 4K モニター 60Hz対応ワイド液晶ディスプレ （3840×2160 UHD) HDMI/DVI/DP/VGA 2.5ms　フレームレス
+  inch: 28
+  reso: 3840x2160
+  panel: TN
+  glare: 光沢
+  vesa: true
+  kg: 8
+  links:
+  date: 2016.11.12
+
+- asin: B00P9VXD9A
+  maker: PHILIPS
+  kata: BDM4065UC/11
+  kakaku: K0000715043
+  title: Philips 40型ワイド液晶ディスプレイ (4K対応/VAパネル/5年間フル保証) BDM4065UC/11
+  inch: 40
+  reso: 3840x2160
+  panel: VA
+  glare: ハーフグレア
+  vesa: true
+  kg: 13
+  links:
+    - https://www.philips.co.jp/c-p/BDM4065UC_11/brilliance-led-backlit-lcd-display.html
+    - http://watchmono.com/blog-entry-5184.html
+    - https://netank.net/10600.html
+  date: 2016.11.12
+
+- asin: B01FCZOUMG
+  maker: JapanNext
+  kata: JN-T2820UHD
+  kakaku: K0000876884
+  title: JN-T2820UHD 28型 4K モニター 60Hz対応ワイド液晶ディスプレ （3840×2160 UHD) HDMI 2.0 / DVI / DP / 2.5ms
+  inch: 28
+  reso: 3840x2160
+  panel: TN
+  glare: 非光沢
+  vesa: true
+  kg: 6.5
+  date: 2016.11.12
+
+- asin: B00S7HXV22
+  maker: BenQ
+  kata: BL3201PT
+  kakaku: K0000737967
+  title: BenQ 32インチワイド 高解像度モデル (4K/IPSパネル/DisplayPort搭載/ディスプレイパイロット対応) BL3201PT
+  inch: 32
+  reso: 3840x2160
+  panel: IPS
+  glare: 非光沢
+  vesa: true
+  kg: 12.5
+  links:
+    - http://www.benq.co.jp/product/monitor/bl3201pt/
+  date: 2016.11.12
+
+- asin: B01I1HI1OU
+  maker: DELL
+  kata: P4317Q
+  kakaku:
+  title: Dell ディスプレイ モニター P4317Q/4K/42.5 インチ/IPS/8ms/DP,mDP,HDMI,VGA,RS232/USBハブ/3年間保証
+  inch: 42.5
+  reso: 3840x2160
+  panel: IPS
+  glare: 非光沢
+  vesa: true
+  kg: 17
+  links:
+    - http://accessories.apj.dell.com/sna/productdetail.aspx?c=jp&l=ja&s=dhs&cs=jpdhs1&sku=210-AIUV
+    - http://watchmono.com/blog-entry-6952.html
+  date: 2016.11.12
+
+- asin: B00PXXIYMK
+  maker: DELL
+  kata: P2715Q
+  kakaku:
+  title: Dell ディスプレイ モニター P2715Q 27インチ/4K/IPS非光沢/6ms/HDMI,DPx2(MST)/sRGB99%/USBハブ/3年間保証
+  inch: 27
+  reso: 3840x2160
+  panel: IPS
+  glare: 非光沢
+  vesa: true
+  kg: 8
+  links:
+    - http://accessories.apj.dell.com/sna/productdetail.aspx?c=jp&l=ja&s=bsd&cs=jpbsd1&sku=210-AFRI
+    - ftp://ftp.dell.com/Manuals/all-products/esuprt_display_projector/esuprt_display/dell-p2715q-monitor_user%27s%20guide_ja-jp.pdf
+  date: 2016.11.12
+
 - asin: B01IALGW2U
   maker: LG
   kata: 27UD58-B
@@ -61,6 +167,8 @@
   glare: 非光沢
   vesa: true
   kg: 10
+  links:
+    - http://hrktksm.hatenablog.com/entry/2016/04/15/200451
   date: 2016.10.30
 
 - asin: B01BS8MYMO
