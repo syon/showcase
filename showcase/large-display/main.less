@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
   font-family: Lato, sans-serif;
   color: #333;
@@ -67,9 +71,24 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    &.nice {
+      border: 2px solid #a9e34b;
+      .val {
+        font-size: 120%;
+      }
+    }
     .sfx {
       font-size: 12px;
       color: #757575;
+    }
+    &.glare {
+      font-size: 20px;
+      text-align: center;
+      padding: 2px;
+      .val {
+        margin-top: 3px;
+        line-height: 1.2;
+      }
     }
   }
   .meta {

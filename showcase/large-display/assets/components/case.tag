@@ -13,27 +13,28 @@
       <h3 class="title">{ this.title }</h3>
     </a>
     <div class="spec-chips">
-      <div class="chip">
-        <span>{ this.inch }</span>
+      <div class="chip { nice: this.inch >= 30 }">
+        <span class="val">{ this.inch }</span>
         <span class="sfx">インチ</span>
       </div>
-      <div class="chip ppi">
-        <span>{ this.ppi }</span>
+      <div class="chip ppi { nice: this.ppi >= 200 }">
+        <span class="val">{ this.ppi }</span>
         <span class="sfx">ppi</span>
       </div>
-      <div class="chip">
-        <span>{ this.panel }</span>
+      <div class="chip { nice: this.panel === 'IPS' }">
+        <span class="val">{ this.panel }</span>
         <span class="sfx">パネル</span>
       </div>
-      <div class="chip">
-        <span>{ this.glare }</span>
+      <div class="chip glare">
+        <span class="sfx">表面処理</span>
+        <span class="val">{ this.glare }</span>
       </div>
       <div class="chip">
         <span class="sfx">VESA</span>
-        <span>{ this.vesa ? "○" : "×" }</span>
+        <span class="val">{ this.vesa ? "○" : "×" }</span>
       </div>
       <div class="chip">
-        <span>{ this.kg }</span>
+        <span class="val">{ this.kg }</span>
         <span class="sfx">kg</span>
       </div>
     </div>

@@ -6,7 +6,7 @@
   inch: 27
   reso: 5120x2880
   panel: IPS
-  glare: ?
+  glare: "?"
   vesa: true
   kg: 8.5
   date: 2016.11.12
