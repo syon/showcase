@@ -2,7 +2,7 @@
   <case each={ items } />
   <script>
   var self = this;
-  $.ajax('/assets/dataset.json')
+  $.ajax('/showcase/assets/dataset.json')
     .done(function(data){
       self.items = data;
       self.update();
