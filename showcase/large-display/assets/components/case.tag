@@ -1,7 +1,7 @@
 <case class="case">
   <div class="photo">
     <a href="{ this.afiUrl }" target="_blank">
-      <img class="view" src="http://images.amazon.com/images/P/{ this.asin }.09_SL500_.jpg">
+      <img class="view" src="https://images-na.ssl-images-amazon.com/images/I/{ this.imgid }._SL500_.jpg">
     </a>
   </div>
   <div class="detail">
