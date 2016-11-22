@@ -25,4 +25,4 @@ deploy:
 
     - lukevivier/gh-pages:
         token: $GH_TOKEN
-        basedir: harp-src/www/works
+        basedir: harp-src/www/showcase
